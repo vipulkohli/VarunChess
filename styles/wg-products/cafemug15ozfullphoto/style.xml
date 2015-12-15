@@ -1,0 +1,27 @@
+<style category1="Mugs" category2="HomeAndOffice" category3="" 
+copyright="Walgreens" dateCreated="" minDpi="150" name="cafemug15ozfullphoto"
+productSku="Photogift;PDC(Mug);15oz;ceramic;cafe"
+sets="" styleVersion="1" type="snapfishexternal" vendor="Walgreens"
+version="1.0">
+  <locale>
+    <default>
+      <title>Cafe Mug, 15 oz</title>
+      <description>Put your favorite photo on this oversized cafe mug and enjoy every sip!</description>
+    </default>
+    <en_US>
+      <title>Cafe Mug, 15 oz</title>
+      <description>Put your favorite photo on this oversized cafe mug and enjoy every sip!</description>
+    </en_US>
+  </locale>
+  <preview>
+    <static>thumbnail150x150.png</static>
+  </preview>
+  <player type="snapfishexternal">
+    <main></main>
+  </player>
+  <cardlayout>
+    <svgPath>layout.svg</svgPath>
+  </cardlayout>
+  <install-disabled>
+  http://www.preclick.com/appdata/styles/zipped/photogifts/walgreens/cafemug15ozfullphoto.zip</install-disabled>
+</style>

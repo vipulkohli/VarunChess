@@ -1,0 +1,25 @@
+<style minDpi="90" name="ultimatevaluepack" productSku="WGUltimateValuePack" sets="" styleVersion="1"
+type="wg-orderprints" vendor="Walgreens" version="1.0">
+  <locale>
+    <default>
+      <title>Walgreens Ultimate Value Pack(s)</title>
+      <description></description>
+    </default>
+    <en_US>
+      <title>Walgreens Ultimate Value Pack(s)</title>
+      <description></description>
+    </en_US>
+  </locale>
+  <preview>
+    <static>thumbnail150x150.png</static>
+  </preview>
+  <player type="orderprints">
+    <main></main>
+  </player>
+  <cardlayout>
+    <svgPath>layout.svg</svgPath>
+  </cardlayout>
+  <install-disabled>
+    http://www.preclick.com/appdata/styles/zipped/orderprints/walgreens/ultimatevaluepack.zip
+  </install-disabled>
+</style>

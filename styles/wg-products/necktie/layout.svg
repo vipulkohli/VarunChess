@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg
+  xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" 
+  version="1.2" baseProfile="tiny"
+  title="Necktie"
+  width="1500" height="800"
+  printWidth="10" printHeight="6" printOrientation="landscape"
+  hintColor="#8c8c8c" hintBackgroundColor="#d8e3ee"
+  >
+  <g id="cardcontent">
+    <rect id="cardphoto01" uuid="{6eee3574-9244-11dc-8314-0800200c9a66}" x="882" y="87" width="437" height="642"/>
+    <image id="cardmaskimg" uuid="{7b2044f4-9244-11dc-8314-0800200c9a66}" width="1500" height="800" xlink:href="mask.png"/>
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+<style category1="PostersAndPrints" category2="" category3=""
+childLabel="16&quot;x20&quot;" childType="productSize"
+copyright="Walgreens" dateCreated="" minDpi="90" name="poster16x20"
+parent="poster" productSku="poster;16x20" productCode="POL"
+sets="" styleVersion="1" type="snapfishexternal" vendor="Walgreens"
+version="1.0">
+  <locale>
+    <default>
+      <title>Poster 16x20</title>
+      <description>Make a big impact with your favorite photos.</description>
+    </default>
+    <en_US>
+      <title>Poster 16x20</title>
+      <description>Make a big impact with your favorite photos.</description>
+    </en_US>
+  </locale>
+  <preview>
+    <static>thumbnail150x150.png</static>
+  </preview>
+  <player type="snapfishexternal">
+    <main></main>
+  </player>
+  <cardlayout>
+    <svgPath>layout.svg</svgPath>
+  </cardlayout>
+  <install-disabled>
+  http://www.preclick.com/appdata/styles/zipped/photogifts/walgreens/poster16x20.zip</install-disabled>
+</style>

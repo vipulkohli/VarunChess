@@ -1,0 +1,27 @@
+<style category1="FunAndGames" category2="" category3=""
+copyright="Walgreens" dateCreated="" minDpi="150" name="photopuzzlefullphoto"
+productSku="Photogift;PDC(Puzzle);8x10"
+sets="" styleVersion="1" type="snapfishexternal" vendor="Walgreens"
+version="1.0">
+  <locale>
+    <default>
+      <title>Photo Puzzle</title>
+      <description>Imagine your family and friends putting the pieces of your gift puzzle together. They'll be surprised when they discover that the subject of the puzzle is ... themselves!</description>
+    </default>
+    <en_US>
+      <title>Photo Puzzle</title>
+      <description>Imagine your family and friends putting the pieces of your gift puzzle together. They'll be surprised when they discover that the subject of the puzzle is ... themselves!</description>
+    </en_US>
+  </locale>
+  <preview>
+    <static>thumbnail150x150.png</static>
+  </preview>
+  <player type="snapfishexternal">
+    <main></main>
+  </player>
+  <cardlayout>
+    <svgPath>layout.svg</svgPath>
+  </cardlayout>
+  <install-disabled>
+  http://www.preclick.com/appdata/styles/zipped/photogifts/walgreens/photopuzzlefullphoto.zip</install-disabled>
+</style>

@@ -1,0 +1,30 @@
+<styleInventory version="1.0">
+  <style display="true" name="Mousepad" sets="" styleVersion="1"
+  type="wg-orderprints" version="1.0">
+    <description>
+    http://www.shadowbrush.com/tmp/styles/wg-orderprints/update/styles/photodesign/mousepad/style.xml</description>
+    <preview>
+    http://www.shadowbrush.com/tmp/styles/wg-orderprints/update/styles/photodesign/mousepad/thumbnail150x150.png</preview>
+  </style>
+  <style display="true" name="Photo Magnet" sets=""
+  styleVersion="1" type="wg-orderprints" version="1.0">
+    <description>
+    http://www.shadowbrush.com/tmp/styles/wg-orderprints/update/styles/photodesign/magnet/style.xml</description>
+    <preview>
+    http://www.shadowbrush.com/tmp/styles/wg-orderprints/update/styles/photodesign/magnet/thumbnail150x150.png</preview>
+  </style>
+  <style display="false" name="Magnet 4x6" sets="" styleVersion="1"
+  type="wg-orderprints" version="1.0">
+    <description>
+    http://www.shadowbrush.com/tmp/styles/wg-orderprints/update/styles/photodesign/magnet4x6/style.xml</description>
+    <preview>
+    http://www.shadowbrush.com/tmp/styles/wg-orderprints/update/styles/photodesign/magnet4x6/thumbnail150x150.png</preview>
+  </style>
+  <style display="false" name="Magnet 3x4" sets="" styleVersion="1"
+  type="wg-orderprints" version="1.0">
+    <description>
+    http://www.shadowbrush.com/tmp/styles/wg-orderprints/update/styles/photodesign/magnet3x4/style.xml</description>
+    <preview>
+    http://www.shadowbrush.com/tmp/styles/wg-orderprints/update/styles/photodesign/magnet3x4/thumbnail150x150.png</preview>
+  </style>
+</styleInventory>

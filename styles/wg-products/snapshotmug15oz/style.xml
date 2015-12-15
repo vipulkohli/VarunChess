@@ -1,0 +1,27 @@
+<style version="1.0" category1="Mugs" sets="" category2="" category3="" 
+       dateCreated="" copyright="Walgreens" vendor="Walgreens" 
+       type="snapfishexternal" styleVersion="1" name="snapshotmug15oz" 
+       productSku="Photogift;PHOTOTHIS(Mug);15oz;tiled"
+       minDpi="150">
+ <locale>
+  <default>
+   <title>Snapshot Mug, 15 oz</title>
+   <description>Indulge with your favorite drink in this oversized porcelain mug featuring your favorite image.</description>
+  </default>
+  <en_US>
+   <title>Snapshot Mug, 15 oz</title>
+   <description>Indulge with your favorite drink in this oversized porcelain mug featuring your favorite image.</description>
+  </en_US>
+ </locale>
+ <preview>
+  <static>thumbnail150x150.png</static>
+ </preview>
+ <player type="snapfishexternal" >
+  <main/>
+ </player>
+ <cardlayout>
+  <svgPath>layout.svg</svgPath>
+ </cardlayout>
+ <productAlternatives>
+ <install-disabled>http://www.preclick.com/appdata/styles/zipped/photogifts/walgreens/snapshotmug15oz.zip</install>
+</style>

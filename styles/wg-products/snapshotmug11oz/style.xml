@@ -1,0 +1,27 @@
+<style version="1.0" category1="Mugs" sets="" category2=""  category3=""
+       dateCreated="" copyright="Walgreens" vendor="Walgreens" 
+       type="snapfishexternal" styleVersion="1" name="snapshotmug11oz" 
+       productSku="Photogift;PHOTOTHIS(Mug);11oz;tiled"
+       minDpi="150">
+ <locale>
+  <default>
+   <title>Snapshot Mug, 11 oz</title>
+   <description>Create a thoughtful gift that will be cherished every morning.</description>
+  </default>
+  <en_US>
+   <title>Snapshot Mug, 11 oz</title>
+   <description>Create a thoughtful gift that will be cherished every morning.</description>
+  </en_US>
+ </locale>
+ <preview>
+  <static>thumbnail150x150.png</static>
+ </preview>
+ <player type="snapfishexternal" >
+  <main/>
+ </player>
+ <cardlayout>
+  <svgPath>layout.svg</svgPath>
+ </cardlayout>
+ <productAlternatives>
+ <install-disabled>http://www.preclick.com/appdata/styles/zipped/photogifts/walgreens/snapshotmug11oz.zip</install>
+</style>

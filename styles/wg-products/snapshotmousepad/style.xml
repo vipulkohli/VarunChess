@@ -1,0 +1,25 @@
+<style version="1.0" sets="" category1="HomeAndOffice" category2="" category3="" dateCreated="" 
+       copyright="Walgreens" vendor="Walgreens" type="snapfishexternal" styleVersion="1" 
+       name="snapshotmousepad"  productSku="Photogift;PDC(Mousepad);9x8"
+       minDpi="150">
+ <locale>
+  <default>
+   <title>Snapshot Mouse Pad</title>
+   <description>Speed up the workday with a constant reminder of a favorite memory, or warm up your home office with a family photo. Each mouse pad measures 9.25" x 7.75" and is made with high-density black foam and a tough, stain-resistant inter-woven cloth cover.</description>
+  </default>
+  <en_US>
+   <title>Snapshot Mouse Pad</title>
+   <description>Speed up the workday with a constant reminder of a favorite memory, or warm up your home office with a family photo. Each mouse pad measures 9.25" x 7.75" and is made with high-density black foam and a tough, stain-resistant inter-woven cloth cover.</description>
+  </en_US>
+ </locale>
+ <preview>
+  <static>thumbnail150x150.png</static>
+ </preview>
+ <player type="snapfishexternal" >
+  <main/>
+ </player>
+ <cardlayout>
+  <svgPath>layout.svg</svgPath>
+ </cardlayout>
+ <install-disabled>http://www.preclick.com/appdata/styles/zipped/photogifts/walgreens/snapshotmousepad.zip</install-disabled>
+</style>

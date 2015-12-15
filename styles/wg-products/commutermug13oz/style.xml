@@ -1,0 +1,27 @@
+<style version="1.0" category1="Mugs"  category2="HomeAndOffice" category3="" sets="" 
+       dateCreated="" copyright="Walgreens" vendor="Walgreens" 
+       type="snapfishexternal" styleVersion="1" name="commutermug13oz" 
+       productSku="Photogift;PHOTOTHIS(Mug)Travel;Stainless Steel"
+       minDpi="150">
+ <locale>
+  <default>
+   <title>Commuter Mug, 13 oz</title>
+   <description>Now you can take your loved ones with you! This sturdy, spill-proof commuter mug is made of stainless steel with a removable top and plastic handle. It holds 13 ounces.</description>
+  </default>
+  <en_US>
+   <title>Commuter Mug, 13 oz</title>
+   <description>Now you can take your loved ones with you! This sturdy, spill-proof commuter mug is made of stainless steel with a removable top and plastic handle. It holds 13 ounces.</description>
+  </en_US>
+ </locale>
+ <preview>
+  <static>thumbnail150x150.png</static>
+ </preview>
+ <player type="snapfishexternal" >
+  <main/>
+ </player>
+ <cardlayout>
+  <svgPath>layout.svg</svgPath>
+ </cardlayout>
+ <productAlternatives>
+ <install-disabled>http://www.preclick.com/appdata/styles/zipped/photogifts/walgreens/commutermug14oz.zip</install>
+</style>

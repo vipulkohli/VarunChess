@@ -1,0 +1,247 @@
+<styleInventory version="1.0">
+    <style display="true" name="poster" sets=""
+  styleVersion="1" type="snapfishexternal" version="1.0">
+    <description>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/poster/style.xml</description>
+    <preview>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/poster/thumbnail150x150.png</preview>
+  </style>
+  <style display="false" name="poster20x30" sets="" styleVersion="1"
+  type="snapfishexternal" version="1.0">
+    <description>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/poster20x30/style.xml</description>
+    <preview>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/poster20x30/thumbnail150x150.png</preview>
+  </style>
+  <style display="false" name="poster16x20" sets="" styleVersion="1"
+  type="snapfishexternal" version="1.0">
+    <description>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/poster16x20/style.xml</description>
+    <preview>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/poster16x20/thumbnail150x150.png</preview>
+  </style>
+  <style display="false" name="poster12x18" sets="" styleVersion="1"
+  type="snapfishexternal" version="1.0">
+    <description>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/poster12x18/style.xml</description>
+    <preview>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/poster12x18/thumbnail150x150.png</preview>
+  </style>
+  <style display="false" name="poster11x14" sets="" styleVersion="1"
+  type="snapfishexternal" version="1.0">
+    <description>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/poster11x14/style.xml</description>
+    <preview>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/poster11x14/thumbnail150x150.png</preview>
+  </style>
+  <style display="true" name="snowflake" sets="" styleVersion="1"
+  type="snapfishexternal" version="1.0">
+    <description>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/snowflake/style.xml</description>
+    <preview>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/snowflake/thumbnail150x150.png</preview>
+  </style> 
+  <style display="true" name="keepsakebox" sets="" styleVersion="1"
+  type="snapfishexternal" version="1.0">
+    <description>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/keepsakebox/style.xml</description>
+    <preview>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/keepsakebox/thumbnail150x150.png</preview>
+  </style>
+  <style display="true" name="Mousepad" sets="" styleVersion="1"
+  type="snapfishexternal" version="1.0">
+    <description>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/mousepad/style.xml</description>
+    <preview>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/mousepad/thumbnail150x150.png</preview>
+  </style>
+<![CDATA[  <style display="false" name="whitemug11oz" sets="" styleVersion="1"
+  type="snapfishexternal" version="1.0">
+    <description>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/whitemug11oz/style.xml</description>
+    <preview>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/whitemug11oz/thumbnail150x150.png</preview>
+  </style>
+  <style display="false" name="whitemug11ozcelebration" sets="" styleVersion="1"
+  type="snapfishexternal" version="1.0">
+    <description>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/whitemug11ozcelebration/style.xml</description>
+    <preview>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/whitemug11ozcelebration/thumbnail150x150.png</preview>
+  </style>   ]]>
+  <style display="false" name="whitemug11ozfullphoto" sets="" styleVersion="1"
+  type="snapfishexternal" version="1.0">
+    <description>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/whitemug11ozfullphoto/style.xml</description>
+    <preview>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/whitemug11ozfullphoto/thumbnail150x150.png</preview>
+  </style>
+<![CDATA[  <style display="false" name="whitemug11ozheart" sets="" styleVersion="1"
+  type="snapfishexternal" version="1.0">
+    <description>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/whitemug11ozheart/style.xml</description>
+    <preview>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/whitemug11ozheart/thumbnail150x150.png</preview>
+  </style>
+  <style display="false" name="whitemug11ozinstantprint" sets="" styleVersion="1"
+  type="snapfishexternal" version="1.0">
+    <description>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/whitemug11ozinstantprint/style.xml</description>
+    <preview>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/whitemug11ozinstantprint/thumbnail150x150.png</preview>
+  </style>
+  <style display="false" name="whitemug11ozoval" sets="" styleVersion="1"
+  type="snapfishexternal" version="1.0">
+    <description>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/whitemug11ozoval/style.xml</description>
+    <preview>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/whitemug11ozoval/thumbnail150x150.png</preview>
+  </style>
+  <style display="false" name="whitemug11ozphotocorners" sets="" styleVersion="1"
+  type="snapfishexternal" version="1.0">
+    <description>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/whitemug11ozphotocorners/style.xml</description>
+    <preview>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/whitemug11ozphotocorners/thumbnail150x150.png</preview>
+  </style>
+  <style display="false" name="whitemug11ozplain" sets="" styleVersion="1"
+  type="snapfishexternal" version="1.0">
+    <description>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/whitemug11ozplain/style.xml</description>
+    <preview>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/whitemug11ozplain/thumbnail150x150.png</preview>
+  </style>
+  <style display="false" name="cafemug15oz" sets="" styleVersion="1"
+  type="snapfishexternal" version="1.0">
+    <description>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/cafemug15oz/style.xml</description>
+    <preview>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/cafemug15oz/thumbnail150x150.png</preview>
+  </style>
+  <style display="false" name="cafemug15ozphotocorners" sets="" styleVersion="1"
+  type="snapfishexternal" version="1.0">
+    <description>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/cafemug15ozphotocorners/style.xml</description>
+    <preview>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/cafemug15ozphotocorners/thumbnail150x150.png</preview>
+  </style>
+  <style display="false" name="cafemug15ozplain" sets="" styleVersion="1"
+  type="snapfishexternal" version="1.0">
+    <description>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/cafemug15ozplain/style.xml</description>
+    <preview>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/cafemug15ozplain/thumbnail150x150.png</preview>
+  </style>
+  <style display="false" name="cafemug15ozoval" sets="" styleVersion="1"
+  type="snapfishexternal" version="1.0">
+    <description>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/cafemug15ozoval/style.xml</description>
+    <preview>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/cafemug15ozoval/thumbnail150x150.png</preview>
+  </style>
+  <style display="false" name="cafemug15ozinstantprint" sets="" styleVersion="1"
+  type="snapfishexternal" version="1.0">
+    <description>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/cafemug15ozinstantprint/style.xml</description>
+    <preview>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/cafemug15ozinstantprint/thumbnail150x150.png</preview>
+  </style>
+  <style display="false" name="cafemug15ozheart" sets="" styleVersion="1"
+  type="snapfishexternal" version="1.0">
+    <description>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/cafemug15ozheart/style.xml</description>
+    <preview>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/cafemug15ozheart/thumbnail150x150.png</preview>
+  </style>           ]]>
+  <style display="false" name="cafemug15ozfullphoto" sets="" styleVersion="1"
+  type="snapfishexternal" version="1.0">
+    <description>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/cafemug15ozfullphoto/style.xml</description>
+    <preview>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/cafemug15ozfullphoto/thumbnail150x150.png</preview>
+  </style>
+<![CDATA[  <style display="false" name="cafemug15ozcelebration" sets="" styleVersion="1"
+  type="snapfishexternal" version="1.0">
+    <description>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/cafemug15ozcelebration/style.xml</description>
+    <preview>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/cafemug15ozcelebration/thumbnail150x150.png</preview>
+  </style>
+  <style display="false" name="commutermug14oz" sets="" styleVersion="1"
+  type="snapfishexternal" version="1.0">
+    <description>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/commutermug14oz/style.xml</description>
+    <preview>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/commutermug14oz/thumbnail150x150.png</preview>
+  </style>
+  <style display="false" name="lattemug17oz" sets="" styleVersion="1"
+  type="snapfishexternal" version="1.0">
+    <description>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/lattemug17oz/style.xml</description>
+    <preview>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/lattemug17oz/thumbnail150x150.png</preview>
+  </style>
+  <style display="false" name="magicsnapshotmug11oz" sets="" styleVersion="1"
+  type="snapfishexternal" version="1.0">
+    <description>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/magicsnapshotmug11oz/style.xml</description>
+    <preview>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/magicsnapshotmug11oz/thumbnail150x150.png</preview>
+  </style>
+  <style display="false" name="snapshotmug11oz" sets="" styleVersion="1"
+  type="snapfishexternal" version="1.0">
+    <description>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/snapshotmug11oz/style.xml</description>
+    <preview>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/snapshotmug11oz/thumbnail150x150.png</preview>
+  </style>
+  <style display="false" name="snapshotmug15oz" sets="" styleVersion="1"
+  type="snapfishexternal" version="1.0">
+    <description>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/snapshotmug15oz/style.xml</description>
+    <preview>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/snapshotmug15oz/thumbnail150x150.png</preview>
+  </style>
+<![CDATA[  <style display="false" name="photopuzzle" sets="" styleVersion="1"
+  type="snapfishexternal" version="1.0">
+    <description>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/photopuzzle/style.xml</description>
+    <preview>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/photopuzzle/thumbnail150x150.png</preview>
+  </style>         ]]>
+  <style display="false" name="photopuzzlefullphoto" sets="" styleVersion="1"
+  type="snapfishexternal" version="1.0">
+    <description>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/photopuzzlefullphoto/style.xml</description>
+    <preview>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/photopuzzlefullphoto/thumbnail150x150.png</preview>
+  </style>
+<![CDATA[  <style display="false" name="photopuzzletexttop" sets="" styleVersion="1"
+  type="snapfishexternal" version="1.0">
+    <description>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/photopuzzletexttop/style.xml</description>
+    <preview>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/photopuzzletexttop/thumbnail150x150.png</preview>
+  </style>
+  <style display="false" name="photopuzzletextbottom" sets="" styleVersion="1"
+  type="snapfishexternal" version="1.0">
+    <description>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/photopuzzletextbottom/style.xml</description>
+    <preview>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/photopuzzletextbottom/thumbnail150x150.png</preview>
+  </style>            ]]>
+  <style display="false" name="coasterset" sets="" styleVersion="1"
+  type="snapfishexternal" version="1.0">
+    <description>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/coasterset/style.xml</description>
+    <preview>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/coasterset/thumbnail150x150.png</preview>
+  </style>
+  <style display="false" name="teddybear" sets="" styleVersion="1"
+  type="snapfishexternal" version="1.0">
+    <description>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/teddybear/style.xml</description>
+    <preview>
+    http://www.preclick.com/appdata/styles/unpacked/photogifts/walgreens/teddybear/thumbnail150x150.png</preview>
+  </style>
+</styleInventory>

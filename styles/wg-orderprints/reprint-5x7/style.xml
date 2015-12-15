@@ -1,0 +1,25 @@
+<style minDpi="79" name="reprint-5x7" productSku="reprint;5x7" sets="" styleVersion="1"
+type="wg-orderprints" vendor="Walgreens" version="1.0">
+  <locale>
+    <default>
+      <title>5 x 7(s)</title>
+      <description></description>
+    </default>
+    <en_US>
+      <title>5 x 7(s)</title>
+      <description></description>
+    </en_US>
+  </locale>
+  <preview>
+    <static>thumbnail150x150.png</static>
+  </preview>
+  <player type="orderprints">
+    <main></main>
+  </player>
+  <cardlayout>
+    <svgPath>layout.svg</svgPath>
+  </cardlayout>
+  <install-disabled>
+    http://www.preclick.com/appdata/styles/zipped/orderprints/walgreens/reprint-5x7.zip
+  </install-disabled>
+</style>

@@ -1,0 +1,25 @@
+<style version="1.0" category1="Seasonal" category2="" category3="" sets="" dateCreated="" 
+       copyright="Walgreens" vendor="Walgreens" type="snapfishexternal" styleVersion="1" 
+       name="snowflake"  productSku="Photogift;PHOTOTHIS(Ornament);Snowflake"
+       minDpi="150">
+ <locale>
+  <default>
+   <title>Snowflake Ornament</title>
+   <description>Start a personalized photo ornament collection with this porcelain star!</description>
+  </default>
+  <en_US>
+   <title>Snowflake Ornament</title>
+   <description>Start a personalized photo ornament collection with this porcelain star!</description>
+  </en_US>
+ </locale>
+ <preview>
+  <static>thumbnail150x150.png</static>
+ </preview>
+ <player type="snapfishexternal" >
+  <main/>
+ </player>
+ <cardlayout>
+  <svgPath>layout.svg</svgPath>
+ </cardlayout>
+ <install-disabled>http://www.preclick.com/appdata/styles/zipped/photogifts/walgreens/snowflake.zip</install-disabled>
+</style>

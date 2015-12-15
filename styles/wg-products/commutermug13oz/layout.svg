@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg
+  xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" 
+  version="1.2" baseProfile="tiny"
+  title="Commuter Mug, 13 oz"
+  width="1500" height="800"
+  printWidth="10" printHeight="6" printOrientation="landscape"
+  hintColor="#8c8c8c" hintBackgroundColor="#d8e3ee"
+  >
+  <g id="cardcontent">
+    <rect id="cardphoto01" uuid="{dd3ddb17-d0ff-4626-bbee-7aae93aa2d1f}" x="537" y="123" width="910" height="547"/>
+    <image id="cardmaskimg" uuid="{7715d79e-3ec8-4c6e-a464-5ac388f6c76b}" width="1500" height="800" xlink:href="mask.png"/>
+  </g>
+</svg>

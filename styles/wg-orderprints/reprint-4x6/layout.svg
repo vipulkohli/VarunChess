@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg
+  xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" 
+  version="1.2" baseProfile="tiny"
+  title="4 x 6"
+  width="1000" height="750"
+  printWidth="6" printHeight="4" printOrientation="landscape"
+  >
+  <g id="cardcontent">
+    <rect id="cardphoto01" uuid="{dd3ddb17-d0ff-4626-bbee-7aae93aa2d1f}" x="0" y="0" width="1000" height="750"/>
+    <image id="cardmaskimg" uuid="{7715d79e-3ec8-4c6e-a464-5ac388f6c76b}" width="1000" height="750" xlink:href="mask.png"/>
+  </g>
+</svg>

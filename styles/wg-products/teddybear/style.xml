@@ -1,0 +1,25 @@
+<style version="1.0" category1="FunAndGames" category2="" category3="" dateCreated=""  sets=""
+       copyright="Walgreens" vendor="Walgreens" type="snapfishexternal" styleVersion="1" 
+       name="teddybear"  productSku="Photogift;PHOTOTHIS(Teddy Bear);SweatShirt"
+       minDpi="150">
+ <locale>
+  <default>
+   <title>Teddy Bear</title>
+   <description>Send a personalized teddy bear to your grandkids or loved ones.</description>
+  </default>
+  <en_US>
+   <title>Teddy Bear</title>
+   <description>Send a personalized teddy bear to your grandkids or loved ones.</description>
+  </en_US>
+ </locale>
+ <preview>
+  <static>thumbnail150x150.png</static>
+ </preview>
+ <player type="snapfishexternal" >
+  <main/>
+ </player>
+ <cardlayout>
+  <svgPath>layout.svg</svgPath>
+ </cardlayout>
+ <install-disabled>http://www.preclick.com/appdata/styles/zipped/photogifts/walgreens/teddybear.zip</install-disabled>
+</style>

@@ -1,0 +1,25 @@
+<style version="1.0" sets="" category1="HomeAndOffice" category2="" category3="" dateCreated="" 
+       copyright="Walgreens" vendor="Walgreens" type="snapfishexternal" styleVersion="1" 
+       name="mousepad"  productSku="Photogift;PHOTOTHIS(Mousepad);9.125x8.25"
+       minDpi="150">
+ <locale>
+  <default>
+   <title>Mouse Pad</title>
+   <description>Personalize your workspace with a colorful and functional mousepad.</description>
+  </default>
+  <en_US>
+   <title>Mouse Pad</title>
+   <description>Personalize your workspace with a colorful and functional mousepad.</description>
+  </en_US>
+ </locale>
+ <preview>
+  <static>thumbnail150x150.png</static>
+ </preview>
+ <player type="snapfishexternal" >
+  <main/>
+ </player>
+ <cardlayout>
+  <svgPath>layout.svg</svgPath>
+ </cardlayout>
+ <install-disabled>http://www.preclick.com/appdata/styles/zipped/photogifts/walgreens/mousepad.zip</install-disabled>
+</style>

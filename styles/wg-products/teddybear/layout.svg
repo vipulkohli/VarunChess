@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg
+  xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;"
+ 
+  version="1.2" baseProfile="tiny"
+  title="Teddy Bear"
+  width="1500" height="800"
+
+  widthScreen="" heightScreen=""
+  printWidth="10" printHeight="6"
+  printOrientation="landscape"
+  hintColor="#8c8c8c" hintBackgroundColor="#d8e3ee"
+  >
+  <g id="cardcontent">
+    <rect id="cardphoto01" uuid="{9b8ce7aa-e8c1-411b-b6de-55c368c506b3}" x="676" y="189" width="772" height="465"/>
+    <image id="cardmaskimg" uuid="{d886f187-1e5d-44d6-ba43-8059f575e89d}" width="1500" height="800" xlink:href="mask.png"/>
+  </g>
+</svg>

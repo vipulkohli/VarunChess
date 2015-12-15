@@ -1,0 +1,27 @@
+<style category1="Mugs" category2="" category3=""
+copyright="Walgreens" dateCreated="" minDpi="150" name="whitemug11ozfullphoto"
+productSku="Photogift;PHOTOTHIS(Mug);11oz;4x8.5"
+sets="" styleVersion="1" type="snapfishexternal" vendor="Walgreens"
+version="1.0">
+  <locale>
+    <default>
+      <title>White Mug, 11 oz</title>
+      <description>Put any photo on this mug: a child's birthday, a vacation scene, a sports moment, a favorite pet.</description>
+    </default>
+    <en_US>
+      <title>White Mug, 11 oz</title>
+      <description>Put any photo on this mug: a child's birthday, a vacation scene, a sports moment, a favorite pet. </description>
+    </en_US>
+  </locale>
+  <preview>
+    <static>thumbnail150x150.png</static>
+  </preview>
+  <player type="snapfishexternal">
+    <main></main>
+  </player>
+  <cardlayout>
+    <svgPath>layout.svg</svgPath>
+  </cardlayout>
+  <install-disabled>
+  http://www.preclick.com/appdata/styles/zipped/photogifts/walgreens/whitemug11ozfullphoto.zip</install-disabled>
+</style>

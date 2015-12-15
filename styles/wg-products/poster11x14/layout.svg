@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg
+  xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" 
+  version="1.2" baseProfile="tiny"
+  title="Poster 11x14"
+  width="550" height="700"
+  printWidth="11" printHeight="14" printOrientation="landscape"
+  hintColor="#8c8c8c" hintBackgroundColor="#d8e3ee"
+  >
+  <g id="cardcontent">
+    <rect id="cardphoto01" uuid="{dd3ddb17-d0ff-4626-bbee-7aae93aa2d1f}" x="0" y="0" width="550" height="700"/>
+  </g>
+</svg>

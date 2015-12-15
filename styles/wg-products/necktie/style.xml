@@ -1,0 +1,27 @@
+<style version="1.0" category1="HomeAndOffice"  category2="" category3="" sets="" 
+       dateCreated="" copyright="Walgreens" vendor="Walgreens" 
+       type="snapfishexternal" styleVersion="1" name="necktie" 
+       productSku="Photogift;PHOTOTHIS(NeckTie);TwoSides"
+       minDpi="150">
+ <locale>
+  <default>
+   <title>Necktie</title>
+   <description>For the person who has everything - or so he thought! This personalized photo tie will be a hit around the water cooler or holiday party. Made of silky 100% polyester fabric and comes in six colors. Photos appear on both sides and measure 1x1½" each. </description>
+  </default>
+  <en_US>
+   <title>Necktie</title>
+   <description>For the person who has everything - or so he thought! This personalized photo tie will be a hit around the water cooler or holiday party. Made of silky 100% polyester fabric and comes in six colors. Photos appear on both sides and measure 1x1½" each. </description>
+  </en_US>
+ </locale>
+ <preview>
+  <static>thumbnail150x150.png</static>
+ </preview>
+ <player type="snapfishexternal" >
+  <main/>
+ </player>
+ <cardlayout>
+  <svgPath>layout.svg</svgPath>
+ </cardlayout>
+ <productAlternatives>
+ <install-disabled>http://www.preclick.com/appdata/styles/zipped/photogifts/walgreens/necktie.zip</install>
+</style>

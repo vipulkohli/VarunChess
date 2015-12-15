@@ -1,0 +1,27 @@
+<style category1="Mugs" version="1.0" sets="" category2=""  category3=""
+       dateCreated="" copyright="Walgreens" vendor="Walgreens" 
+       type="snapfishexternal" styleVersion="1" name="magicsnapshotmug11oz" 
+       productSku="Photogift;PHOTOTHIS(MagicMug);8.5x3.75;tiled"
+       minDpi="150">
+ <locale>
+  <default>
+   <title>Magic Snapshot Mug, 11 oz</title>
+   <description>Abracadabra! Amaze your friends with this 11-ounce mug that appears black until filled with hot water, revealing a tiled design of a favorite photo!</description>
+  </default>
+  <en_US>
+   <title>Magic Snapshot Mug, 11 oz</title>
+   <description>Abracadabra! Amaze your friends with this 11-ounce mug that appears black until filled with hot water, revealing a tiled design of a favorite photo!</description>
+  </en_US>
+ </locale>
+ <preview>
+  <static>thumbnail150x150.png</static>
+ </preview>
+ <player type="snapfishexternal" >
+  <main/>
+ </player>
+ <cardlayout>
+  <svgPath>layout.svg</svgPath>
+ </cardlayout>
+ <productAlternatives>
+ <install-disabled>http://www.preclick.com/appdata/styles/zipped/photogifts/walgreens/magicsnapshotmug11oz.zip</install>
+</style>

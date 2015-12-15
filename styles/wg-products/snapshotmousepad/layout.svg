@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg
+  xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" 
+  version="1.2" baseProfile="tiny"
+  title="Snapshot Mousepad"
+  width="800" height="680"
+  widthScreen="1020" heightScreen="870"
+  printWidth="9.125" printHeight="7.75" printOrientation="landscape"
+  hintColor="#8c8c8c" hintBackgroundColor="#d8e3ee"
+  >
+  <g id="cardcontent">
+    <rect id="cardphoto01" uuid="{2e3abd62-93da-11dc-8314-0800200c9a66}" x="0" y="0" width="800" height="680"/>
+    <image id="cardmaskimg" uuid="{395f5ee6-93da-11dc-8314-0800200c9a66}" width="800" height="680" xlink:href="mask.png"/>
+  </g>
+</svg>

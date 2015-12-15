@@ -1,0 +1,27 @@
+<style version="1.0" category1="Mugs"  category2="" category3="" sets="" 
+       dateCreated="" copyright="Walgreens" vendor="Walgreens" 
+       type="snapfishexternal" styleVersion="1" name="frostedstein" 
+       productSku="Photogift;PHOTOTHIS(FrostedStein)"
+       minDpi="150">
+ <locale>
+  <default>
+   <title>Frosted Stein</title>
+   <description>Share a smile every time you raise your glass with this handsome 16-ounce frosted stein. Perfect as a single gift or in a set. Made of high-quality frosted glass. Dishwasher-safe with mild detergents. Image is full-wrap and we recommend a landscape oriented photo.</description>
+  </default>
+  <en_US>
+   <title>Frosted Stein</title>
+   <description>Share a smile every time you raise your glass with this handsome 16-ounce frosted stein. Perfect as a single gift or in a set. Made of high-quality frosted glass. Dishwasher-safe with mild detergents. Image is full-wrap and we recommend a landscape oriented photo.</description>
+  </en_US>
+ </locale>
+ <preview>
+  <static>thumbnail150x150.png</static>
+ </preview>
+ <player type="snapfishexternal" >
+  <main/>
+ </player>
+ <cardlayout>
+  <svgPath>layout.svg</svgPath>
+ </cardlayout>
+ <productAlternatives>
+ <install-disabled>http://www.preclick.com/appdata/styles/zipped/photogifts/walgreens/frostedstein.zip</install>
+</style>

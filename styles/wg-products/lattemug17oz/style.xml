@@ -1,0 +1,27 @@
+<style category1="Mugs" version="1.0" sets="" category2="" category3="" 
+       dateCreated="" copyright="Walgreens" vendor="Walgreens" 
+       type="snapfishexternal" styleVersion="1" name="lattemug17oz" 
+       productSku="Photogift;PHOTOTHIS(FunnelMug);17oz;7.5x6;tiled"
+       minDpi="150">
+ <locale>
+  <default>
+   <title>Latte Mug, 17 oz</title>
+   <description>Enjoy your morning coffee in this personalized 17-ounce latte mug.</description>
+  </default>
+  <en_US>
+   <title>Latte Mug, 17 oz</title>
+   <description>Enjoy your morning coffee in this personalized 17-ounce latte mug.</description>
+  </en_US>
+ </locale>
+ <preview>
+  <static>thumbnail150x150.png</static>
+ </preview>
+ <player type="snapfishexternal" >
+  <main/>
+ </player>
+ <cardlayout>
+  <svgPath>layout.svg</svgPath>
+ </cardlayout>
+ <productAlternatives>
+ <install-disabled>http://www.preclick.com/appdata/styles/zipped/photogifts/walgreens/lattemug17oz.zip</install>
+</style>

@@ -1,0 +1,25 @@
+<style minDpi="90" name="reprint-4x6" productSku="reprint;4x6" sets="" styleVersion="1"
+type="wg-orderprints" vendor="Walgreens" version="1.0">
+  <locale>
+    <default>
+      <title>4 x 6(s)</title>
+      <description></description>
+    </default>
+    <en_US>
+      <title>4 x 6(s)</title>
+      <description></description>
+    </en_US>
+  </locale>
+  <preview>
+    <static>thumbnail150x150.png</static>
+  </preview>
+  <player type="orderprints">
+    <main></main>
+  </player>
+  <cardlayout>
+    <svgPath>layout.svg</svgPath>
+  </cardlayout>
+  <install-disabled>
+    http://www.preclick.com/appdata/styles/zipped/orderprints/walgreens/reprint-4x6.zip
+  </install-disabled>
+</style>
